@@ -8,7 +8,7 @@ This repository serves as a complete boilerplate to get started coding your appl
 * Nodejs
 * MongoDb
 * Husky
-* Eslint
+* [Eslint with JS Standard](/docs/eslint.md)
 * [Standarized Commits](/docs/standarized-commits.md)
 * Travis CI/CD
 * Gitignore
@@ -20,4 +20,4 @@ Simple clone and install!
 
 ## Documentation
 
-Have a look at the docs folder where there is more detail about every feature, including versions, scripts, tests and useful tips!
+Have a look at the docs folder where there is more detail about every feature, including scripts, tests and useful tips!
