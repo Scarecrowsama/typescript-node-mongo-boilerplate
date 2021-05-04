@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "src",
     "rootDirs": ["src", "tests"],
-    "outDir": "dist",
+    "outDir": "./dist",
     "module": "commonjs",
     "target": "ES2019",
     "strictNullChecks": false,
