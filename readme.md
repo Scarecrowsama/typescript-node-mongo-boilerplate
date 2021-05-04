@@ -7,7 +7,7 @@ This repository serves as a complete boilerplate to get started coding your appl
 * [Typescript](/docs/typescript.md)
 * Nodejs
 * MongoDb
-* Husky
+* [Husky with lint-staged](/docs/husky.md)
 * [Eslint with JS Standard](/docs/eslint.md)
 * [Standarized Commits](/docs/standarized-commits.md)
 * Travis CI/CD
