@@ -9,7 +9,7 @@ This repository serves as a complete boilerplate to get started coding your appl
 * MongoDb
 * Husky
 * Eslint
-* Standarized Commits
+* [Standarized Commits](/docs/standarized-commits.md)
 * Travis CI/CD
 * Gitignore
 * Jest
