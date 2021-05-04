@@ -4,7 +4,7 @@ This repository serves as a complete boilerplate to get started coding your appl
 
 ## Features
 
-* Typescript
+* [Typescript](/docs/typescript.md)
 * Nodejs
 * MongoDb
 * Husky
