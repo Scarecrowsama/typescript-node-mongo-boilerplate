@@ -1,7 +1,7 @@
 {
-  "name": "typescript-node-mongo",
+  "name": "typescript-node-mongo-boilerplate",
   "version": "1.0.0",
-  "description": "Typescript boiler plate with Node, MongoDB, Express, Jest, Husky, CI/CD and more.",
+  "description": "Typescript boilerplate with Node, MongoDB, Express, Jest, Husky, CI/CD and more.",
   "main": "server.js",
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig-build.json",
@@ -13,7 +13,7 @@
     "test:staged": "npm test -- --findRelatedTests",
     "test:ci": "npm test -- --coverage"
   },
-  "keywords": [],
+  "keywords": ["typescript", "node", "nodejs", "mongo", "mongodb", "jest", "husky", "travis", "travisci", "ci/cd", "eslint", "express", "boilerplate", "tests"],
   "author": "Tanausu Sosa",
   "license": "SIC",
   "devDependencies": {
