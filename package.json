@@ -4,6 +4,8 @@
   "description": "Typescript boiler plate with Node, MongoDB, Express, Jest, Husky, CI/CD and more.",
   "main": "server.js",
   "scripts": {
+    "build": "rimraf dist && tsc -p tsconfig-build.json",
+    "build:watch": "rimraf dist && tsc -p tsconfig-build.json -w",
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
     "test:verbose": "jest --passWithNoTests --runInBand",
     "test:unit": "npm test -- --watch -c jest-unit-config.js",
