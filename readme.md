@@ -5,18 +5,22 @@ This repository serves as a complete boilerplate to get started coding your appl
 ## Features
 
 * [Typescript](/docs/typescript.md)
-* Nodejs
 * [MongoDB witj Jest-MongoDB](/docs/mongodb.md)
 * [Husky with lint-staged](/docs/husky.md)
 * [Eslint with JS Standard](/docs/eslint.md)
 * [Standarized Commits](/docs/standarized-commits.md)
-* Travis CI/CD
-* Gitignore
 * [Jest](/docs/jest.md)
+* Travis CI/CD
+* [Nodejs](https://nodejs.org/en/)
+* [Express](https://www.npmjs.com/package/express)
+* [Gitignore](https://git-scm.com/docs/gitignore)
 
 ## How to use
 
-Simple clone and install!
+1. Clone Repo
+2. Install
+3. Run script "npm run build"
+4. Run script "npm start"
 
 ## Documentation
 
