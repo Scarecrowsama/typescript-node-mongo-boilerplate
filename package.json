@@ -1,8 +1,8 @@
 {
   "name": "typescript-node-mongo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Typescript boiler plate with Node, MongoDB, Express, Jest, Husky, CI/CD and more.",
+  "main": "server.js",
   "scripts": {
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
     "test:verbose": "jest --passWithNoTests --runInBand",
@@ -12,7 +12,7 @@
     "test:ci": "npm test -- --coverage"
   },
   "keywords": [],
-  "author": "Tanausu Sosa <tanausu_sa@hotmail.com>",
+  "author": "Tanausu Sosa",
   "license": "SIC",
   "devDependencies": {
     "@shelf/jest-mongodb": "^1.2.4",
@@ -34,5 +34,11 @@
   },
   "dependencies": {
     "mongodb": "^3.6.6"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "_moduleAliases": {
+    "@": "dist"
   }
 }
