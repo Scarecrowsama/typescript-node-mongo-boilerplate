@@ -12,7 +12,7 @@ This repository serves as a complete boilerplate to get started coding your appl
 * [Standarized Commits](/docs/standarized-commits.md)
 * Travis CI/CD
 * Gitignore
-* Jest
+* [Jest](/docs/jest.md)
 
 ## How to use
 
