@@ -8,7 +8,8 @@
     "strictNullChecks": false,
     "esModuleInterop": true,
     "paths": {
-      "@/*": ["*"]
+      "@/*": ["*"],
+      "@/tests/*": ["../tests/*"]
     }
   },
   "include": [
