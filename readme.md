@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Scarecrowsama/typescript-node-mongo-boilerplate.svg?branch=master)](https://travis-ci.com/Scarecrowsama/typescript-node-mongo-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/Scarecrowsama/typescript-node-mongo-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/Scarecrowsama/typescript-node-mongo-boilerplate?branch=master)
 # Typescript - Node - Mongo - Boilerplate
 
