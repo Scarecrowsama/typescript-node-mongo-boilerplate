@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/Scarecrowsama/typescript-node-mongo-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/Scarecrowsama/typescript-node-mongo-boilerplate?branch=master)
 # Typescript - Node - Mongo - Boilerplate
 
 This repository serves as a complete boilerplate to get started coding your applications using Node, Typescript and MongoDb.
