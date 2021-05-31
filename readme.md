@@ -11,6 +11,7 @@ This repository serves as a complete boilerplate to get started coding your appl
 * [Standarized Commits](/docs/standarized-commits.md)
 * [Jest](/docs/jest.md)
 * Travis CI/CD
+* [Coveralls](/docs/coveralls.md)
 * [Nodejs](https://nodejs.org/en/)
 * [Express](https://www.npmjs.com/package/express)
 * [Gitignore](https://git-scm.com/docs/gitignore)
