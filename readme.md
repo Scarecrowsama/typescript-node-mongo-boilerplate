@@ -22,8 +22,8 @@ This repository serves as a complete boilerplate to get started coding your appl
 
 1. Clone Repo
 2. Run "npm install"
-3. Run script "npm run build"
-4. Run script "npm start"
+3. Run "npm run build"
+4. Run "npm start"
 
 ## Documentation
 
